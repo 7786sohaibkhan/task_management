@@ -17,7 +17,8 @@ This is a Employee task management system.This task management system script con
 we have to create manualy in database. 
 
 
-Boss-username : sohaib@gmail.com ,password :sk123
-Employee-username : kuldeepr@gmail.com,password :1234
+Boss-username : sohaib@gmail.com, password :sk123
+
+Employee-username : kuldeepr@gmail.com, password :1234
 
 
